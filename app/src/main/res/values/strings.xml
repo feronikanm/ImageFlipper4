@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageFlipper4</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="flipping_started">Flipping Started...</string>
+    <string name="flipping_stopped">Flipping Stopped...</string>
+</resources>
